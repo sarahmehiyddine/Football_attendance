@@ -1,2 +1,1 @@
-Projet d'économétrie en données de panel. L'objectif de cette étude était de reproduire une analyse similaire à l'article de Garcia et Rodriguez (2002) qui ont cherché les 
-déterminants de la demande de tickets de football.
+Projet d'économétrie en données de panel. L'objectif de cette étude était de reproduire une analyse similaire à l'article de Garcia et Rodriguez (2002) qui ont cherché les déterminants de la demande de tickets de football pour la ligue espagnole. Dans cette étude, leur méthode est reprise et appliquée à la ligue féminine anglaise. 3 estimateurs sont comparés pour choisir le plus pertinent : OLS, Within et GLS.
